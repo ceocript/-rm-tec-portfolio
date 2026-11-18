@@ -1,0 +1,19 @@
+RM TEC — PORTFÓLIO ORGANIZADO
+
+Páginas HTML:
+- index.html: início
+- servicos.html: serviços
+- sobre.html: sobre e diferenciais
+- cliente.html: formulário exclusivo para clientes solicitarem atendimento
+- trabalhe-conosco.html: formulário exclusivo para profissionais se cadastrarem
+- contato.html: contatos
+- cadastro.html: redireciona para a nova área do cliente (compatibilidade com links antigos)
+
+Arquivos compartilhados:
+- css/style.css: estilos de todas as páginas
+- js/script.js: interações e envio dos formulários para WhatsApp
+- img/: logotipo e identidade visual
+
+Como usar: extraia a pasta e abra index.html no navegador. Para publicar, envie a pasta inteira mantendo a estrutura.
+
+Os formulários de Cliente e Trabalhe Conosco usam links HTTPS wa.me com mensagem pré-preenchida. No celular, o dispositivo pode abrir o aplicativo WhatsApp; no computador, a versão web ou aplicativo disponível. A pessoa confere e envia a mensagem manualmente.
